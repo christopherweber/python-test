@@ -1,7 +1,7 @@
 import requests
 import json
 
-webhook_url="http://127.0.0.1:2000/webhook"
+webhook_url="https://fh-demo.com/server.py/webhook"
 
 data = {
     "name":"chris"
